@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "647824839189",
+    "project_id": "fir-authdemo-66052",
+    "storage_bucket": "fir-authdemo-66052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647824839189:android:5488639df913381a74741c",
+        "android_client_info": {
+          "package_name": "com.example.justpaint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647824839189-7nllknc6dg3n54u9qg5apo6nkc0g62jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.justpaint",
+            "certificate_hash": "5a2000eed64cb20b7b9a71c215283149ce21a075"
+          }
+        },
+        {
+          "client_id": "647824839189-euso2vamstbv82l58tk3433d3rj6nlt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWlj5wa84pLYCzGAGQZbv_sbFsFS0738s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647824839189-euso2vamstbv82l58tk3433d3rj6nlt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
